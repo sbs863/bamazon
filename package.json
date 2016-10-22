@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "simple marketplace database",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbs863/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Sam Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbs863/bamazon/issues"
+  },
+  "homepage": "https://github.com/sbs863/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
